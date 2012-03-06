@@ -3,3 +3,7 @@ A 3D cube made with only CSS3.
 The cube turning effect also is made only with CSS3
 
 Thanks Felipe N. Moura, for teaching me about CSS3 3D!
+
+References:
+http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/
+https://developer.mozilla.org/En/CSS/Using_CSS_transforms
